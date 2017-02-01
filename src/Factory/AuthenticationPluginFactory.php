@@ -7,6 +7,8 @@
  * Time: 7:06 PM
  */
 
+declare(strict_types = 1);
+
 namespace Dot\Controller\Plugin\Authentication\Factory;
 
 use Dot\Authentication\AuthenticationInterface;
