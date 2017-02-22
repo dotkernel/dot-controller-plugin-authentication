@@ -48,4 +48,12 @@ class AuthenticationPlugin implements PluginInterface
     {
         return $this->authentication->getIdentity();
     }
+
+    /**
+     * @return mixed
+     */
+    public function clearIdentity()
+    {
+        return $this->authentication->clearIdentity();
+    }
 }
