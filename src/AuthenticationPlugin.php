@@ -7,9 +7,12 @@
  * Time: 7:05 PM
  */
 
+declare(strict_types = 1);
+
 namespace Dot\Controller\Plugin\Authentication;
 
 use Dot\Authentication\AuthenticationInterface;
+use Dot\Authentication\Identity\IdentityInterface;
 use Dot\Controller\Plugin\PluginInterface;
 
 /**
@@ -33,7 +36,7 @@ class AuthenticationPlugin implements PluginInterface
     /**
      * @return bool
      */
-    public function hasIdentity()
+    public function hasIdentity(): bool
     {
         return $this->authentication->hasIdentity();
     }
@@ -41,8 +44,16 @@ class AuthenticationPlugin implements PluginInterface
     /**
      * @return \Dot\Authentication\Identity\IdentityInterface
      */
-    public function getIdentity()
+    public function getIdentity(): IdentityInterface
     {
         return $this->authentication->getIdentity();
+    }
+
+    /**
+     * @return mixed
+     */
+    public function clearIdentity()
+    {
+        return $this->authentication->clearIdentity();
     }
 }
