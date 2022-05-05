@@ -1,3 +1,20 @@
+## 2.0.1 - 2022-05-05
+
+### Changed
+* Added dot-controller ^3.2.1 compatibility.
+
+### Added
+* Nothing
+
+### Deprecated
+* Nothing
+
+### Removed
+* Support
+
+### Fixed
+* Nothing
+
 ## 2.0.0 - 2020-01-30
 
 ### Changed
