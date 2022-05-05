@@ -14,7 +14,7 @@
         "laminas/laminas-servicemanager": "^3.3.0",
         "dotkernel/dot-controller": "^2.0 || ^3.2.1",
         "dotkernel/dot-authentication": "^2.0",
-        "laminas/laminas-dependency-plugin": "^1.0"
+        "laminas/laminas-dependency-plugin": "^1.0 || ^2.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^4.8",

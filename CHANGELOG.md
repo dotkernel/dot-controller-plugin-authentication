@@ -1,3 +1,20 @@
+## 2.0.2 - 2022-05-05
+
+### Changed
+* Added laminas-dependency-plugin 2.0 compatibility.
+
+### Added
+* Nothing
+
+### Deprecated
+* Nothing
+
+### Removed
+* Support
+
+### Fixed
+* Nothing
+
 ## 2.0.1 - 2022-05-05
 
 ### Changed
