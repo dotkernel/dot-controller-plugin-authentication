@@ -2,6 +2,13 @@
 
 Authentication controller plugin.
 
+![OSS Lifecycle](https://img.shields.io/osslifecycle/dotkernel/dot-controller-plugin-authentication)
+[![GitHub license](https://img.shields.io/github/license/dotkernel/dot-controller-plugin-authentication)](https://github.com/dotkernel/dot-controller-plugin-authentication/blob/2.0.3/LICENSE.md)
+
+# NOTE
+
+> **dot-controller-plugin-authentication** is **archived** and will receive no further development!
+
 ## Installation
 
 Run the following command
