@@ -2,15 +2,17 @@
 
 Authentication controller plugin.
 
+> [!CAUTION]
+> ## Security-Only Maintenance Mode
+> 
+> This package is considered feature-complete, and is now in **security-only** maintenance mode.
+> 
+
 ![OSS Lifecycle](https://img.shields.io/osslifecycle/dotkernel/dot-controller-plugin-authentication)
 [![GitHub license](https://img.shields.io/github/license/dotkernel/dot-controller-plugin-authentication)](https://github.com/dotkernel/dot-controller-plugin-authentication/blob/2.0.3/LICENSE.md)
-![PHP from Packagist (specify version)](https://img.shields.io/packagist/php-v/dotkernel/dot-controller-plugin-authentication/2.9.0)
+![PHP from Packagist (specify version)](https://img.shields.io/packagist/php-v/dotkernel/dot-controller-plugin-authentication/2.9.2)
 
-# NOTE
 
-> **dot-controller-plugin-authentication** is in **maintenance** mode.
-
-> This package is considered feature-complete, and is now in **security-only** maintenance mode.
 
 ## Installation
 
